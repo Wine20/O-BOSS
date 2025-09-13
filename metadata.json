@@ -1,0 +1,7 @@
+{
+  "name": "The Génesis Universe",
+  "description": "An operating system within an app, a universe of applications designed to assist users. It features a distinct and elegant golden aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
